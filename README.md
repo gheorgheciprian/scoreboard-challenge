@@ -15,3 +15,9 @@ note: please do not edit `scoreboard.test.js` or use the data in `testDataOnly.j
 2. Ensure you have Node.js and Yarn installed.
 3. `yarn install`
 4. `yarn test`
+## What we will be looking for
+
+- Readable
+- Easy to follow
+- Well organised
+- Clean
